@@ -28,7 +28,7 @@ return array(
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('127.0.0.1','::1'),
 		),
-		
+		'account'
 	),
 
 	// application components
@@ -80,12 +80,34 @@ return array(
 				*/
 			),
 		),
+        'request'=>array(
+            'enableCookieValidation'=>true,
+            'enableCsrfValidation'=>true,
+        ),
+        'urlManager'=>array(
+            'class'=>'application.components.UrlManager',
+            'urlFormat'=>'path',
+            'showScriptName'=>false,
+            'rules'=>array(
+//                '<language:(zh|cn|en)>/' => 'site/index',
+//                '<language:(zh|cn|en)>/<action:(contact|login|logout)>/*'       =>  'site/<action>',
+                '<language:(zh|cn|en)>/<module:(account)>/<controller:\w+>/<action:\w+>/*'         =>  '<module>/<controller>/<action>',
+                '<language:(zh|cn|en)>/<controller:\w+>/<id:\d+>'               =>  '<controller>/view',
+                '<language:(zh|cn|en)>/<controller:\w+>/<action:\w+>/<id:\d+>'  =>  '<controller>/<action>',
+                '<language:(zh|cn|en)>/<controller:\w+>/<action:\w+>/*'         =>  '<controller>/<action>',
+
+            ),
+        ),
 	),
 
 	// application-level parameters that can be accessed
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 		// this is used in contact page
-		'adminEmail'=>'webmaster@example.com',
+		'adminEmail'=>'webmaster@apfreelancer.com',
+        'languages'=>array('zh'=>'繁體', 'en'=>'English', 'cn'=>'简体'),
 	),
+
+    'sourceLanguage'=>'en',
+    'language'=>'cn',
 );

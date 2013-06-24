@@ -278,3 +278,1971 @@ Stack trace:
 #10 {main}
 REQUEST_URI=/
 ---
+2013/06/24 14:45:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:45:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "fr/index/index" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('fr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fr/index/index
+---
+2013/06/24 14:46:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:46:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:47:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:51:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "tr/index/index" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('tr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tr/index/index
+---
+2013/06/24 14:51:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:51:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "tr/index/index" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('tr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tr/index/index
+---
+2013/06/24 14:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Konnte den Request "favicon.ico" nicht auflösen.' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tr/index/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('tr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tr/index/index
+---
+2013/06/24 14:52:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tr/index/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('tr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tr/index/index
+---
+2013/06/24 14:52:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tr/index/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('tr/index/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tr/index/index
+---
+2013/06/24 14:52:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:52:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:56:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:57:17 [error] [php] Undefined variable: meObj (/Users/wangfei0001/Sites/apfreelancer/protected/views/layouts/default.php:39)
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(784): IndexController->renderFile()
+#1 /Users/wangfei0001/Sites/apfreelancer/protected/controllers/IndexController.php(20): IndexController->render()
+#2 /Users/wangfei0001/Sites/framework/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#3 /Users/wangfei0001/Sites/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/wangfei0001/Sites/framework/web/CController.php(286): IndexController->runAction()
+#5 /Users/wangfei0001/Sites/framework/web/CController.php(265): IndexController->runActionWithFilters()
+#6 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): IndexController->run()
+#7 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/index/index
+in /Users/wangfei0001/Sites/apfreelancer/protected/views/layouts/default.php (39)
+in /Users/wangfei0001/Sites/apfreelancer/protected/controllers/IndexController.php (20)
+in /Users/wangfei0001/Sites/apfreelancer/index.php (13)
+2013/06/24 14:57:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:57:33 [error] [php] include(Cookie.php): failed to open stream: No such file or directory (/Users/wangfei0001/Sites/framework/YiiBase.php:421)
+Stack trace:
+#0 /Users/wangfei0001/Sites/apfreelancer/protected/views/layouts/default.php(86): spl_autoload_call()
+#1 /Users/wangfei0001/Sites/framework/web/CBaseController.php(126): require()
+#2 /Users/wangfei0001/Sites/framework/web/CBaseController.php(95): IndexController->renderInternal()
+#3 /Users/wangfei0001/Sites/framework/web/CController.php(784): IndexController->renderFile()
+#4 /Users/wangfei0001/Sites/apfreelancer/protected/controllers/IndexController.php(20): IndexController->render()
+#5 /Users/wangfei0001/Sites/framework/web/actions/CInlineAction.php(49): IndexController->actionIndex()
+#6 /Users/wangfei0001/Sites/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /Users/wangfei0001/Sites/framework/web/CController.php(286): IndexController->runAction()
+#8 /Users/wangfei0001/Sites/framework/web/CController.php(265): IndexController->runActionWithFilters()
+#9 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): IndexController->run()
+#10 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/index/index
+in /Users/wangfei0001/Sites/apfreelancer/protected/views/layouts/default.php (86)
+in /Users/wangfei0001/Sites/apfreelancer/protected/controllers/IndexController.php (20)
+in /Users/wangfei0001/Sites/apfreelancer/index.php (13)
+2013/06/24 14:57:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:58:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:59:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "en/index/<".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('en/index/<')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/index/%3C?php%20echo%20Yii::app()-%3Erequest-%3EbaseUrl;%20?%3E/images/en.gif
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 14:59:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 14:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:00:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "en/index/<".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('en/index/<')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/index/%3C?php%20echo%20Yii::app()-%3Erequest-%3EbaseUrl;%20?%3E/images/en.gif
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:00:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:00:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "en/index/<".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('en/index/<')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/index/%3C?php%20echo%20Yii::app()-%3Erequest-%3EbaseUrl;%20?%3E/images/en.gif
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:02:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:02:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:04:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "search.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('search.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/search.php?keyword=%27+.L%28%27LABEL_SEARCH_TIPS%27%29+.%27&x=19&y=8
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:06:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:19:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:21:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:21:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:24:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:26:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users/login.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('users/login.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users/login.php
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:26:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users/login.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('users/login.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users/login.php
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:27:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users/login.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('users/login.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users/login.php
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:27:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users/login.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('users/login.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users/login.php
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:27:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users/login.php".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('users/login.php')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/users/login.php
+HTTP_REFERER=http://apfreelancer/en/index/index
+---
+2013/06/24 15:27:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:27:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/zh/index/index
+---
+2013/06/24 15:31:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/create/language/zh
+---
+2013/06/24 15:31:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:31:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:32:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/login/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/l...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/login/language/zh
+HTTP_REFERER=http://apfreelancer/zh/index/index
+---
+2013/06/24 15:32:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/login/language/zh
+---
+2013/06/24 15:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/create/language/zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/c...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/create/language/zh
+HTTP_REFERER=http://apfreelancer/account/index/login/language/zh
+---
+2013/06/24 15:34:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:34:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/login
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:34:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:34:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/login
+---
+2013/06/24 15:34:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:35:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/login
+---
+2013/06/24 15:36:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:36:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:36:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:36:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:36:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:37:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:37:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "default/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('default/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/default/index
+---
+2013/06/24 15:37:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:38:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:38:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('zh')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh
+---
+2013/06/24 15:38:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/login
+HTTP_REFERER=http://apfreelancer/zh/account/index/create
+---
+2013/06/24 15:38:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/create
+HTTP_REFERER=http://apfreelancer/zh/account/index/login
+---
+2013/06/24 15:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('zh')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/
+---
+2013/06/24 15:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "zh".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('zh')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/
+---
+2013/06/24 15:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cn/account/index/login
+HTTP_REFERER=http://apfreelancer/cn/index/index
+---
+2013/06/24 15:39:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cn/account/index/login
+HTTP_REFERER=http://apfreelancer/cn/index/index
+---
+2013/06/24 15:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:39:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:40:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/i...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/index
+---
+2013/06/24 15:40:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:40:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index/i...')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/account/index/index
+---
+2013/06/24 15:40:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:40:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:40:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:40:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zh/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:40:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:42:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:42:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:42:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:43:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:43:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:43:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:44:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:44:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:45:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "account/index".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/en/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:45:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:46:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/wangfei0001/Sites/framework/web/CController.php:483
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#3 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/en/account/index/login
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:46:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:46:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:46:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/wangfei0001/Sites/framework/web/CController.php:483
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#3 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/en/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:46:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:46:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/wangfei0001/Sites/framework/web/CController.php:483
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#3 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/en/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:46:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:47:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/wangfei0001/Sites/framework/web/CController.php:483
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#3 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/en/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /Users/wangfei0001/Sites/framework/web/CController.php:483
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('account/index')
+#3 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/en/account/index/create
+HTTP_REFERER=http://apfreelancer/
+---
+2013/06/24 15:48:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:49:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/24 15:49:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/wangfei0001/Sites/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/wangfei0001/Sites/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/wangfei0001/Sites/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/wangfei0001/Sites/apfreelancer/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
