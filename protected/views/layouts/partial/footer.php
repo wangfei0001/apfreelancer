@@ -4,20 +4,19 @@
 
         <div class="left">
             <div class="footer_adv"></div>
-            <div>' .L('LABEL_COPYRIGHT') .'</div>
+            <div>L('LABEL_COPYRIGHT') </div>
         </div>
 
         <div class="right" style="padding:5px 0px;">
 
             <div id="footer_copyright">
                 <a href="' .C('DOMAIN') .'privacy.php">' .L('MENU_PRIVACYPOLICY') .'</a>  -   <a href="' .C('DOMAIN') .'terms.php">' .L('MENU_TERMS') .'</a>  -   ';
-                echo '<a href="' .C('DOMAIN') .'affiliate.php">' .L('MENU_AFFILIATES') .'</a>  -   ';
-                echo '<a href="' .C('DOMAIN') .'sitemap.php">' .L('MENU_SITEMAP') .'</a>  -  <a href="' .C('DOMAIN') .'contact.php">' .L('MENU_CONTACT') .'</a>';
+                <a href="' .C('DOMAIN') .'affiliate.php">' .L('MENU_AFFILIATES') .'</a>  -
+                <a href="' .C('DOMAIN') .'sitemap.php">' .L('MENU_SITEMAP') .'</a>  -  <a href="' .C('DOMAIN') .'contact.php">' .L('MENU_CONTACT') .'</a>
                 // echo '  -   <a href="' .C('DOMAIN') .'faq">' .L('MENU_FAQ') .'</a>';
                 if(Cookie::getInstance()->read('lang') == 'cn'){
                 echo '&nbsp;外包QQ群(100879770) - 闽ICP备10008801号';
                 }
-                echo '
             </div>
 
             <div>
@@ -37,7 +36,7 @@
 
 </div>
 
-if(!preg_match('/^http:\/\/127.0.0.1\/.*?/is',C('DOMAIN'))){
+<?php if(!preg_match('/^http:\/\/127.0.0.1\/.*?/is',C('DOMAIN'))){ ?>
 /*echo '
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -48,15 +47,14 @@ if(!preg_match('/^http:\/\/127.0.0.1\/.*?/is',C('DOMAIN'))){
         var pageTracker = _gat._getTracker("UA-7594649-2");
         pageTracker._trackPageview();
     } catch(err) {}</script>';*/
-echo '
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
     _uacct = "UA-7594649-2";
     urchinTracker();
 </script>
-';
-}
+<?php }?>
 
 <div id="alertbox" style="display:none">
     <h2>Information</h2>
