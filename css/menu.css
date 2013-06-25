@@ -1,0 +1,10 @@
+#menu{ width:1024px;margin:0px auto; }
+#menu #menu_left{float:left;background-image:url(../images/bgl.gif);width:5px;height:35px; }
+#menu #menu_right{float:left;background-image:url(../images/bgr.gif);width:5px;height:35px;}
+#menu #menu_center{float:left;background:url(../images/bgc.gif) repeat-x;padding-left:4px;width:1010px !important;text-align:left;padding-top:7px;height:28px !important;}
+#menu_center a{cursor:pointer;color:#FFF;height:20px;float:left;margin-right:5px;text-decoration:none;font-weight:700;vertical-align:middle;line-height:20px;}
+#menu_center a span{height:20px;float:left;padding-right:8px;margin-left:8px;}
+#menu_center a:hover{background:url(../images/12.gif) left 0;height:20px;vertical-align:middle;line-height:20px;}
+#menu_center a:hover span{background:url(../images/12.gif) right 0;height:20px;padding-right:8px;margin-left:8px;}
+#menu_center .menuselected{background:url(../images/11.gif) left 0;height:20px;color:#2E5F88;cursor:pointer;float:left;margin-right:5px;font-weight:700;vertical-align:middle;line-height:20px;}
+#menu_center .menuselected span{background:url(../images/11.gif) right 0;height:20px;padding-right:8px;margin-left:8px;float:left;}

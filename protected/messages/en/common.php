@@ -134,7 +134,7 @@
         'MENU_SENDPM'					=>			'Send PM',
         'MENU_MAKEMONEY'				=>			'Make Money',
         'MENU_MYSPACE'					=>			'My Space',
-        'MENU_HELP'						=>			'Help Center',
+        'Help Center'						=>			'Help Center',
 
         //for buyer
         'MENU_BUYER_CREATED'			=>			'Projects You Created',

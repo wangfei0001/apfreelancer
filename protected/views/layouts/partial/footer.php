@@ -4,19 +4,21 @@
 
         <div class="left">
             <div class="footer_adv"></div>
-            <div>L('LABEL_COPYRIGHT') </div>
+            <div><?php echo Yii::t('common', 'Copyright'); ?> 2010-2011 Intems, Inc.</div>
         </div>
 
         <div class="right" style="padding:5px 0px;">
 
             <div id="footer_copyright">
-                <a href="<?php echo Yii::app()->request->baseUrl; ?>/privacy.php">' .L('MENU_PRIVACYPOLICY') .'</a>  -   <a href="<?php echo Yii::app()->request->baseUrl; ?>/terms.php">' .L('MENU_TERMS') .'</a>  -   ';
-                <a href="<?php echo Yii::app()->request->baseUrl; ?>/affiliate.php">' .L('MENU_AFFILIATES') .'</a>  -
-                <a href="<?php echo Yii::app()->request->baseUrl; ?>/sitemap.php">' .L('MENU_SITEMAP') .'</a>  -  <a href="<?php echo Yii::app()->request->baseUrl; ?>/contact.php">' .L('MENU_CONTACT') .'</a>
-                // echo '  -   <a href="<?php echo Yii::app()->request->baseUrl; ?>/faq">' .L('MENU_FAQ') .'</a>';
-                if(Cookie::getInstance()->read('lang') == 'cn'){
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/privacy.php"><?php echo Yii::t('common', 'Privacy Policy'); ?></a>  -
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/terms.php"><?php echo Yii::t('common', 'Terms'); ?></a>  -
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/affiliate.php"><?php echo Yii::t('common', 'Affiliates'); ?></a>  -
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/sitemap.php"><?php echo Yii::t('common', 'Sitemap'); ?></a>  -
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/contact.php"><?php echo Yii::t('common', 'Contact'); ?></a> -
+                <a href="<?php echo Yii::app()->request->baseUrl; ?>/faq"><?php echo Yii::t('common', 'Faq'); ?></a>';
+                <!--if(Cookie::getInstance()->read('lang') == 'cn'){
                 echo '&nbsp;外包QQ群(100879770) - 闽ICP备10008801号';
-                }
+                }-->
             </div>
 
             <div>
@@ -59,3 +61,6 @@
     <p id="message">This is some sample data from the current page</p>
     <center><a href="#" class="simplemodal-close" id="button">' .L('BUTTON_COMMON_CLOSE') .'</a></center>
 </div>
+
+</body>
+</html>

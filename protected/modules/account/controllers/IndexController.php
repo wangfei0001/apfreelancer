@@ -10,11 +10,12 @@ class IndexController extends Controller
 {
     public function actionLogin()
     {
-        die('login');
+        //die('login');
+        $this->render('login');
     }
 
     public function actionCreate()
     {
-        die('create');
+        $this->render('create');
     }
 }
