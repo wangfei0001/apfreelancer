@@ -31,7 +31,7 @@
         'BUTTON_CUR_MAKEPRIMARY' => '設置為默認',
         'BUTTON_COMMON_SAVE' => '保存',
         'BUTTON_COMMON_FINISH' => '完成',
-        'BUTTON_COMMON_SUBMIT' => '提交',
+        'Submit' => '提交',
         'BUTTON_COMMON_SEARCH' => '搜索',
         'BUTTON_COMMON_SEARCHAGAIN' => '重新搜索',
         'BUTTON_COMMON_SELECT' => '選擇',

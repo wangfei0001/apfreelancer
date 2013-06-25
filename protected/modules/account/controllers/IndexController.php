@@ -10,12 +10,30 @@ class IndexController extends Controller
 {
     public function actionLogin()
     {
-        //die('login');
-        $this->render('login');
+        $model=new LoginForm;
+
+        if(isset($_POST['LoginForm'])){
+
+            $model->attributes=$_POST['LoginForm'];
+
+            if($model->validate() && $model->login()){
+
+                die('ok');
+            }
+
+
+        }
+
+        $this->render('login', array('model'=>$model));
     }
 
     public function actionCreate()
     {
         $this->render('create');
+    }
+
+    public function actionForgot()
+    {
+        $this->render('forgot');
     }
 }
