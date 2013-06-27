@@ -18,7 +18,9 @@ class UserTest extends CTestCase
     public function testCreate()
     {
         $result = $this->model->create('wangfei0001', 'wangfei001@hotmail.com', 'cn');
-        //$this->assertTrue($result);
 
+        $this->assertTrue(false != $result);
+
+        $this->assertTrue(!empty($result->verification));       //we will send out varification email;
     }
 }
