@@ -8,9 +8,17 @@
  */
 class UserTest extends CTestCase
 {
+    protected $model;
 
-    public function testTest()
+    public function setUp()
     {
-        $this->assertTrue(true);
+        $this->model = new Model_User();
+    }
+
+    public function testCreate()
+    {
+        $result = $this->model->create('wangfei0001', 'wangfei001@hotmail.com', 'cn');
+        //$this->assertTrue($result);
+
     }
 }
