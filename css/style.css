@@ -55,6 +55,16 @@ p{ margin-top:3px; margin-bottom:5px; }
 #alertbox #message{ height:45px; }
 #alertbox #button{ background:#FFF url(../images/butbg.gif); color:#000; width:75px; height:25px; display:block; text-align:center; vertical-align:middle; font-size:16px; text-decoration:none; padding-top:4px; height:21px !important; }
 
+form .row{
+    height: 32px;
+}
+form .row label{
+    display: inline-block;
+    width: 120px;
+    font-weight: bold;
+}
+
+
 #zone1 li{ float:left; margin-right:10px; height:16px; line-height:16px; }
 #zone1 li.submenu1{ width:60px; vertical-align:middle; }
 #zone1 li.submenu1 ul{ width:140px; display:none; position:absolute; border-right:1px solid #999999; border-bottom:1px solid #999999; }

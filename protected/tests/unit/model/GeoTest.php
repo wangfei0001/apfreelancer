@@ -10,13 +10,17 @@ class GeoTest extends CTestCase
 {
 
 
+    /***
+     * Get State by name
+     */
     public function testGetStates()
     {
         $model = new Country();
         $countryName = 'Australia';
 
-        $model->getStates($countryName);
+        $result = $model->getStates($countryName);
 
+        $this->assertTrue(is_array($result) && count($result) > 0);
     }
 
 }

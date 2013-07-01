@@ -21,15 +21,18 @@ class Country extends CountryBase
     {
 
         $result = false;
-        $country = self::model('Country')->find(
+        $country = self::model('Country')->with('state')->find(
             'country_en=:country_en',
             array(':country_en' => $name)
-        )->with('state');
+        );
         if($country){
-            var_dump($country->state);
-
-
+            $result = array();
+            foreach($country->state as $state){
+                $result[] = $state->attributes;
+            }
         }
+
+        return $result;
     }
 
     public function getStatesByCountryId($id)
