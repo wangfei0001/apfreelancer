@@ -22,6 +22,14 @@ class User extends UserBase
     }
 
 
+    public function relations()
+    {
+        return array(
+            'balance'=>array(self::HAS_MANY, 'balance', 'fk_user'),
+        );
+    }
+
+
     /***
      * @param $username
      * @param $email
@@ -52,13 +60,12 @@ class User extends UserBase
             if(!$result){
                 throw new Exception('Can not save user.');
             }
-            $id = $this->id_user;
 
-            $balance = new Model_Balance();
+            $balance = new Balance();
 
-            $balance->fk_user = $id;
+            $balance->fk_user = $this->id_user;
 
-            $balance->currency = Model_Balance::CURRENCY_DEFAULT;
+            $balance->currency = Balance::CURRENCY_DEFAULT;
 
             $balance->balance = 0;
 
@@ -76,7 +83,6 @@ class User extends UserBase
         }
         catch(Exception $e)
         {
-            echo $e->getMessage();
             $transaction->rollback();
         }
 
