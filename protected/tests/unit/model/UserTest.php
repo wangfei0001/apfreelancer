@@ -12,7 +12,7 @@ class UserTest extends CTestCase
 
     public function setUp()
     {
-        $this->model = new Model_User();
+        $this->model = new User();
     }
 
     public function testCreate()
